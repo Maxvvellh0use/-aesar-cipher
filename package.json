@@ -1,0 +1,28 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxvvellh0use/caesar-cipher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxvvellh0use/caesar-cipher/issues"
+  },
+  "homepage": "https://github.com/Maxvvellh0use/caesar-cipher#readme",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "inquirer": "^7.3.3",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "readable-stream": "^3.6.0"
+  }
+}
