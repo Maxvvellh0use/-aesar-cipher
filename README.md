@@ -1,4 +1,4 @@
-##Caesar Cipher CLI
+## Caesar Cipher CLI
 
 **Install:** 
 
